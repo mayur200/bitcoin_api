@@ -1,2 +1,2 @@
 # bitcoin_api
-its simpla api project
+its simple api project
